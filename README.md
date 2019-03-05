@@ -1,4 +1,4 @@
-## Kaggle 스터디
+## Kaggle Study
 
 This repository is for studying **Feature Engineering, Data Analysis, Machine Learning etc** with kaggle.
 
@@ -12,6 +12,8 @@ This repository is for studying **Feature Engineering, Data Analysis, Machine Le
 
    > Reference : [EDA To Prediction(DieTanic)](https://www.kaggle.com/ash316/eda-to-prediction-dietanic)
 
+   
+
 2. **Porto Seguro's Safe Driver Prediction** [[link]](https://www.kaggle.com/c/porto-seguro-safe-driver-prediction)
 
    + **overview** : Predict if a driver will file an insurance claim next year.
@@ -20,7 +22,9 @@ This repository is for studying **Feature Engineering, Data Analysis, Machine Le
 
    > Reference : [Data Preparation & Exploration](https://www.kaggle.com/bertcarremans/data-preparation-exploration)
 
-3.  **House Prices: Advanced Regression Techniques** [[link]](https://www.kaggle.com/c/house-prices-advanced-regression-techniques)
+   
+
+3. **House Prices: Advanced Regression Techniques** [[link]](https://www.kaggle.com/c/house-prices-advanced-regression-techniques)
 
    + **overview** : Predict sales prices and practice feature engineering, RFs, and gradient boosting
    + **type** : Regression problem
@@ -28,7 +32,7 @@ This repository is for studying **Feature Engineering, Data Analysis, Machine Le
 
    > Reference : [Stacked Regressions : Top 4% on LeaderBoard ](https://www.kaggle.com/serigne/stacked-regressions-top-4-on-leaderboard/notebook)
 
-
+<br>
 
 ### My kernel
 
