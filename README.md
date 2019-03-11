@@ -39,6 +39,8 @@ This repository is for studying **Feature Engineering, Data Analysis, Machine Le
    + **type** : multi-classification
    + **tag** : `speech recognition`, `FFT`, `3D-plot`, `.wav`
 
+   > Reference : [Speech representation and data exploration](https://www.kaggle.com/davids1992/speech-representation-and-data-exploration)
+
 <br>
 
 ### My kernel
