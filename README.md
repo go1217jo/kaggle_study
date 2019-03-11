@@ -32,6 +32,13 @@ This repository is for studying **Feature Engineering, Data Analysis, Machine Le
 
    > Reference : [Stacked Regressions : Top 4% on LeaderBoard ](https://www.kaggle.com/serigne/stacked-regressions-top-4-on-leaderboard/notebook)
 
+
+
+4. **TensorFlow Speech Recognition Challenge** [[link](https://www.kaggle.com/c/tensorflow-speech-recognition-challenge)]
+   + **overview** : Can you build an algorithm that understands simple speech commands?
+   + **type** : multi-classification
+   + **tag** : `speech recognition`, `FFT`, `3D-plot`, `.wav`
+
 <br>
 
 ### My kernel
@@ -39,4 +46,5 @@ This repository is for studying **Feature Engineering, Data Analysis, Machine Le
 1. Not yet
 2. [Porto Seguro's Safe Driver Prediction](https://github.com/go1217jo/kaggle_study/blob/master/Porto_Seguro's_Safe_Driver_Prediction.ipynb)
 3. [House Prices Prediction](https://github.com/go1217jo/kaggle_study/blob/master/House_Prices_Advanced_Regression.ipynb)
+4. [Speech data analysis](https://github.com/go1217jo/kaggle_study/blob/master/speech_representation_and_data_exploration.ipynb)
 
