@@ -41,7 +41,23 @@ This repository is for studying **Feature Engineering, Data Analysis, Machine Le
 
    > Reference : [Speech representation and data exploration](https://www.kaggle.com/davids1992/speech-representation-and-data-exploration)
 
+
+
+5. **Toxic Comment Classification Challenge**[[link](https://www.kaggle.com/c/jigsaw-toxic-comment-classification-challenge)]
+
+   + **overview** : Identify and classify toxic online comments
+   + **type** : Binary-classificationm, NLP
+   + **tag** : `NLP`, `Keras`, `LSTM`, `Word clouding`
+
+   > Reference :
+   >
+   >  https://www.kaggle.com/jagangupta/stop-the-s-toxic-comments-eda
+   >
+   > https://www.kaggle.com/sbongo/for-beginners-tackling-toxic-using-keras
+
 <br>
+
+
 
 ### My kernel
 
@@ -49,4 +65,5 @@ This repository is for studying **Feature Engineering, Data Analysis, Machine Le
 2. [Porto Seguro's Safe Driver Prediction](https://github.com/go1217jo/kaggle_study/blob/master/Porto_Seguro's_Safe_Driver_Prediction.ipynb)
 3. [House Prices Prediction](https://github.com/go1217jo/kaggle_study/blob/master/House_Prices_Advanced_Regression.ipynb)
 4. [Speech data analysis](https://github.com/go1217jo/kaggle_study/blob/master/speech_representation_and_data_exploration.ipynb)
+5. [Toxic Comment Classification](https://github.com/go1217jo/kaggle_study/blob/master/toxic_comment_classification.ipynb)
 
